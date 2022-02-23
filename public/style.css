@@ -1007,6 +1007,10 @@ Ensure the default browser behavior of the `hidden` attribute.
     right: -9rem;
   }
 
+  .lg\:-bottom-32 {
+    bottom: -8rem;
+  }
+
   .lg\:my-8 {
     margin-top: 2rem;
     margin-bottom: 2rem;
